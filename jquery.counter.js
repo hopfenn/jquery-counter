@@ -9,8 +9,7 @@
     // Defaults
     var settings = $.extend({
         'delay': 10,
-
-		'startNum': 1
+        'startNum': 1
     }, options);
 
     return this.each(function(){
