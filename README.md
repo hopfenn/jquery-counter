@@ -13,5 +13,5 @@ StartNum - indicates which number you want the counter to start at (if you're co
   });<br/>
         
         
- In yout html, enter the number you want the counter to end on!       
-  <pre><h1 class="counter">3</h1></pre>
+ In your html, enter the number you want the counter to end on!       
+  &lt;h1 class="counter"&gt;3&lt;/h1&gt;
